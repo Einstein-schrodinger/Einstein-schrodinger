@@ -5,7 +5,7 @@
 My ![Visitor Count](https://profile-counter.glitch.me/Einstein-schrodinger/count.svg) visitor
 
 
-# I'm Wang Fei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm 雪穗 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🌱 I’m currently learning **Physics**
 - 👯 Currently working in **JiNan, China**
