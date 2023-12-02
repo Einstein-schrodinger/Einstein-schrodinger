@@ -7,8 +7,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Einstein-schrodinger/count
 
 # I'm 雪穗 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 📫 How to reach me: **su17865123987@163.com**
-- 😄 You may like [My Website](https://home.sqwdream.cloud/)
+- 📫 How to reach me: ****
+- 😄 You may like [My Website]()
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Einstein-schrodinger)](https://github.com/Einstein-schrodinger/github-readme-stats)
